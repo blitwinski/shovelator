@@ -1,0 +1,4 @@
+body {background:url('background.jpg') no-repeat}
+div#menu {font-size:20px; padding:250px 0 0 250px; float:left;}
+div#tresc {font-size:15px; padding: 250px 0 0px 650px; color:white;}
+div#dol {font-size:15px; position:absolute; bottom:50px; right:25px;}
