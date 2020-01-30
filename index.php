@@ -19,8 +19,7 @@
 	if (isset($_GET['s']))
 			{
 				//echo($_GET['s']); echo"\n";
-				if ($_GET['s'] == "a") echo"<p>Strona ma na celu 		zaznajomienie z grafikiem czyszczenia kotła 50kW <br> oraz przedstawienie limitów 
-załadunku przy paleniu \"od góry\".</p>"; 
+				if ($_GET['s'] == "a") echo"<p>Strona ma na celu zaznajomienie z grafikiem czyszczenia kotła 50kW <br> oraz przedstawienie limitów załadunku przy paleniu \"od góry\".</p>"; 
 				if ($_GET['s'] == "b") 
 				echo"<p>Grafik czyszczenia kotła:</p>
 	<table border=\"2\">	
